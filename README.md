@@ -1,4 +1,7 @@
 # firstproject
 first one to be public
-hii friends
+hii friends this is akki
 this is pooja
+Hi This Nitya Bathula,
+How are you
+Hi This is Naveen Kampati
