@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Anna {
+module collections {
 }
